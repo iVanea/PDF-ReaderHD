@@ -1,0 +1,25 @@
+/* 
+  Localizable.strings
+  newPDFReaderUniv
+
+  Created by Jora Kalorifer on 2/5/13.
+  Copyright (c) 2013 SoftInterCom. All rights reserved.
+*/
+
+"ClearBookmarks"                = "Очистить закладки?";
+
+"Downloads"                     = "Загрузки";
+
+"FileTransferLabelString"       = "Откройте браузер и введите адрес";
+
+"AreYouSureYouWantToDeleteFile" = "Вы уверенны что хотиле удалить файл";
+
+"DeleteBrowserHistory"          = "Удалить историю браузера?";
+"DeleteBookmarks"               = "Удалить закладки?";
+"DeleteDownloads"               = "Удалить загрузки?";
+
+"Delete"                        = "Удалить";
+"Cancel"                        = "Отмена";
+"Clear"                         = "Очистить";
+
+"Rename"                        = "Переименовать";
